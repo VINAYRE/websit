@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#vinay{
+    height: 100vh;
+    width: 100%;
+ background-image: url("./img/banner.jpg"); 
+background-size: cover;
+
+}
+nav ul{
+    float: right;
+    
+}
+
+nav{
+    width: 40%;
+    float: right;
+    height: 50px;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color:white;
+    margin-right: 90px;
+    border-radius:300;
+    
+
+   
+
+}
+nav ul li{
+    list-style-type: none;
+    display:inline-block;
+}
+#add{
+    float: left;
+    width: 30;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+
+#image{
+    align-items:right ;
+    
+     float: right;
+     padding: 200px;
+}
+#text{
+    width:700px;
+    padding: 90px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+#service{
+    width:700px;
+   
+    float: right;
+    
+}
+ 
+  .container{
+      width: 400%;
+     height: 700px;
+     display: flex;
+     justify-content:center;
+     background-color:black;
+     margin: auto;
+     padding-top:900; 
+      
+    
+ }
+ 
+   
+  .cardA{
+     width: 350px;
+     height: 550px;
+     float: left;
+     background-color: floralwhite;
+     padding: 100;
+     
+     
+ }
+ #img{
+    
+     width: 350px;
+ }
+ #pera1{
+     width: 300px;
+    
+     text-align: left 
+ }
+ .btn1{
+     margin: 2;
+     background-color:floralwhite;
+     color:lightskyblue;
+     border-color:lightskyblue;
+     
+ }
+ .cardB{
+    width: 350px;
+    height: 550px;
+    float:center ;
+    margin: 0px 20px;
+    background-color: floralwhite;
+    border-width: 2;
+}
+#img2{
+    width: 350px;
+}
+.btn2{
+    margin: 2;
+    background-color:floralwhite;
+    color:lightskyblue;
+    border-color:lightskyblue;
+}
+.cardC{
+    width: 350px;
+    height: 550px;
+    float: right;
+    margin: 0px 10px;
+    border-width: 2;
+    background-color: floralwhite;
+}
+#img3{
+    width: 370px;
+    
+}
+
+
+.btn3{
+    margin: 2;
+    background-color:floralwhite;
+    color:lightskyblue;
+    border-color:lightskyblue;
+    font-weight: 400;
+    vertical-align: middle;
+}
+
+
+
+
+
+.card2-1{
+    width: 350px;
+    height: 550px;
+    float: left;
+    background-color: floralwhite;
+    padding: 100;
+}
+#img2-1{
+    
+    width: 350px;
+}
+.card2-2{
+    width: 350px;
+    height: 550px;
+    float:center ;
+    margin: 0px 20px;
+    background-color: floralwhite;
+    border-width: 2;
+}
+#img2-2{
+    
+    width: 350px;
+}
+.card2-3{
+    width: 350px;
+    height: 370;
+    background-color: floralwhite;
+}
+#img2-3{
+    
+    width: 350px;
+}
+
+.webimg{
+    background-image: url("./img/website\ builder.jpg");
+    height: 40vh;
+    width: 100;
+   border:red;
+   margin-top: 50px;
+   margin-left: 99px;
+   margin-right: 99px;
+    background-size: cover;
+}
+#p1{
+    float: right;
+    padding-right: 40px;
+    padding-top: 10px;
+    
+}
